@@ -10,16 +10,19 @@ This project performs sentiment analysis on IMDb movie reviews using Python.
 ## How to Run
 
 1. Clone this repository:
-git clone https://github.com/YOUR_USERNAME/imdb-sentiment-analysis.git
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
 2. Install required Python packages:
 pip install -r requirements.txt
 
-4. Run the notebook `SAGNIK_SEN_SentimentAnalysisMovieReviews_Latest.ipynb` using Jupyter Notebook or JupyterLab.
+3. Launch Jupyter Notebook and open the notebook file:
+jupyter notebook SAGNIK_SEN_SentimentAnalysisMovieReviews_Latest.ipynb
+
+4. Run the notebook cells step-by-step.
 
 ## Dataset
 
-The dataset consists of IMDb movie reviews. Due to size constraints, the full dataset is not included. You can download it from [IMDb Dataset](https://ai.stanford.edu/~amaas/data/sentiment/) or use your own movie review data.
+The dataset (`IMDB Dataset.zip`) is large and **not included** in the repo. Please download it from [IMDb Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) and place it in the project folder before running the notebook.
 
 ## Requirements
 
@@ -28,7 +31,9 @@ The dataset consists of IMDb movie reviews. Due to size constraints, the full da
 - scikit-learn
 - nltk
 - matplotlib
+- seaborn
 - jupyter
+
 
 ## Author
 
