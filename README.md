@@ -9,8 +9,7 @@ This project performs sentiment analysis on IMDb movie reviews using Python.
 
 ## How to Run
 
-1. Clone this repository:
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+1. Clone this repository using git clone 
 
 2. Install required Python packages:
 pip install -r requirements.txt
